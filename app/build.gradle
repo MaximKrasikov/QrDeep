@@ -37,7 +37,7 @@ android {
     //naming
     applicationVariants.all { variant ->
         variant.outputs.all {
-            outputFileName = "qrka.apk"
+            outputFileName = "qrATB.apk"
         }
     }
 }
